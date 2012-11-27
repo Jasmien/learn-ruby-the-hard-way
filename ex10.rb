@@ -16,7 +16,7 @@ puts fat_cat
 
 =begin
     \" – double quote
-		\' – single quote
+    \' – single quote
     \\ – single backslash
     \a – bell/alert
     \b – backspace
